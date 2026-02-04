@@ -1,12 +1,24 @@
-## Hi there 👋
+## 0x01. What is this?
 
-<!--
+一个“反内卷”的个人实验场，作为一个在 AI 洪流中感到虚无的前端开发者，我建立这个组织的初衷很简单：**抵抗被替代感。**
 
-**Here are some ideas to get you started:**
+我计划利用工作的间隙，以 100 天为一个周期，去学习和尝试那些“AI 能做，但我亲手做会更快乐”的事情。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 0x02. Why "101"?
+
+- CS 101：像大学第一堂课的新生一样，重新享受编程的乐趣
+- 100 + 1：第 100 天不是终点，第 101 天是新生活的开始
+
+## 0x03. 正在进行的探索
+
+1. Algorithm：仅仅是想在力扣周赛里做出前两题
+2. Pixel Art：从 16x16 的格子开始，找回对色彩和形状的“物理手感”
+
+
+## 0x04. 摸鱼守则
+
+严格遵守以下协议：
+
+1. 低压，不追求全情投入，只在间隙进行
+2. 止损，难题超过 10 分钟没思路，直接看答案或者放弃
+3. 过程 > 结果，哪怕只写了一行 `print()`，也是胜利
