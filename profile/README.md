@@ -17,11 +17,11 @@
 
 ## 0x03. 正在进行的探索
 
-### Algorithm (2.4 - 5.15)
+### [Algorithm](https://github.com/101days/algorithm) (2.4 - 5.15)
 
 仅仅是想在力扣周赛里做出前两题。
 
-### Pixel Art
+### [Pixel Art](https://github.com/101days/pixel)
 
 从 16x16 的格子开始，找回对色彩、形状和创造力的物理掌控感。
 
