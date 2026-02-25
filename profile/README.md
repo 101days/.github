@@ -21,11 +21,11 @@
 
 ## 02. 正在进行的探索
 
-### [Algorithm](/algorithm) (2.4 - 5.15)
+### [Algorithm](https://github.com/101days/algorithm) (2.4 - 5.15)
 
 仅仅是想在力扣周赛里做出前两题。
 
-### [Game](/game) (2.24 - 6.4)
+### [Game](https://github.com/101days/game) (2.24 - 6.4)
 
 从 CS50G 开始，目标是一个 2D 多人线上联机游戏。
 
