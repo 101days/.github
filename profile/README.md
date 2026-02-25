@@ -1,7 +1,9 @@
+# 101 Days
+
 > [!TIP]
-> 
+>
 > Reclaiming agency in the age of AI.
-> 
+>
 > 在被算法包围的世界里，找回一点手写的确定性。
 >
 > —— 2026/02/04
@@ -19,11 +21,15 @@
 
 ## 02. 正在进行的探索
 
-### [Algorithm](https://github.com/101days/algorithm) (2.4 - 5.15)
+### [Algorithm](/algorithm) (2.4 - 5.15)
 
 仅仅是想在力扣周赛里做出前两题。
 
-### [Pixel Art](https://github.com/101days/pixel)
+### [Game](/game) (2.24 - 6.4)
+
+从 CS50G 开始，目标是一个 2D 多人线上联机游戏。
+
+### Pixel Art
 
 从 16x16 的格子开始，找回对色彩、形状和创造力的物理掌控感。
 
